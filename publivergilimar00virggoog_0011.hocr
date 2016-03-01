@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publivergilimar00virggoog/publivergilimar00virggoog_0011.png"; bbox 0 0 1846 3052; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 223 514 540 624">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 223 514 540 624">
+     <span class='ocr_line' id='line_1_1' title="bbox 250 514 515 557; baseline 0.016 -7"><span class='ocrx_word' id='word_1_1' title='bbox 250 514 344 557; x_wconf 73' lang='grc' dir='ltr'>ΑὸΤΟΒ</span> <span class='ocrx_word' id='word_1_2' title='bbox 361 518 446 555; x_wconf 75' lang='grc' dir='ltr'>[ΕΝΟΧ</span> <span class='ocrx_word' id='word_1_3' title='bbox 462 522 515 557; x_wconf 82' lang='grc' dir='ltr'>ΑΜ,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 223 576 540 624; baseline 0.032 -12"><span class='ocrx_word' id='word_1_4' title='bbox 223 576 321 617; x_wconf 62' lang='grc' dir='ltr'>ΤΙὶΟΕΝ</span> <span class='ocrx_word' id='word_1_5' title='bbox 343 583 476 621; x_wconf 60' lang='lat' dir='ltr'>fonnem</span> <span class='ocrx_word' id='word_1_6' title='bbox 481 587 540 624; x_wconf 75' lang='lat' dir='ltr'><strong>ONS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 343 638 425 687">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 343 638 425 687">
+     <span class='ocr_line' id='line_1_3' title="bbox 343 638 425 687; baseline 0.049 -4"><span class='ocrx_word' id='word_1_7' title='bbox 343 638 425 687; x_wconf 65' lang='lat'><strong>1899.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 928 3052">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 928 3052">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 928 3052; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 928 3052; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
